@@ -1,6 +1,6 @@
 # ARP-Attack-and-Network-Sniffing
 
-## DATE: 22.03.2025
+## DATE: 
 
 # Explore Network Sniffing and ARP Attacks
 
