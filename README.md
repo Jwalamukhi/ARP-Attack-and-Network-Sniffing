@@ -1,6 +1,6 @@
 # ARP-Attack-and-Network-Sniffing
 
-## DATE: 
+
 
 # Explore Network Sniffing and ARP Attacks
 
